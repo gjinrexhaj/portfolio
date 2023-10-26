@@ -14,18 +14,37 @@ html {
 :root {
     --blue: #002aff;
     --black: #000000;
+    --darkgray: #000000cf;
+
+    --offwhite: rgb(255, 244, 197);
+
+    --nav-height: 8rem;
+
+    --fs-h1: 7.5rem;
+    --fs-h2: 6rem;
+    --fs-h3: 4rem;
+
+    --gutter-xx-small: 2rem;
+    --gutter-x-small: 3rem;
+    --gutter-small: 4rem;
+    --gutter-medium: 6rem;
+    --gutter-large: 8rem;
+    --gutter-huge: 10rem;
+
 }
 
 
 
 body {
     font-family: 'Jost', sans-serif;
-    color: var(--black);
+    color: var(--darkgray);
     font-size: 1.8rem;
+    font-weight: 300; 
+    background-color: var(--offwhite);
 }
 
 a {
-    color: var(--black);
+    color: var(--blue);
     text-decoration: none;
 }
 
@@ -37,11 +56,58 @@ a {
     font-size: 2.2rem;
 }
 
+.btn-text {
+    display: inline-block;
+    pad: 1rem .5rem;
+    border-bottom: 1px solid var(--blue);
+}
+
+img {
+    object-fit: contain;
+}
+
+section {
+    padding: var(--gutter-huge) 0;
+}
+
+
 .row {
     max-width: 1080px;
     margin: 0 auto;
 }
 
+h1,
+h2,
+h3 {
+    color: var(--black);
+    font-weight: 400;   
+}
+
+h2 {
+    font-size: var(--fs-h2);
+}
+
+h1 {
+    font-size: var(--fs-h1);
+}
+
+h2::after {
+    content: "";
+    display: block;
+    height: 0.3rem;
+    width: 12rem;
+    margin-top: 1rem;
+    background-color: var(--blue);
+}
+
+h3 {
+    font-size: var(--fs-h3);
+}
+
+
+ul {
+    list-style-position: inside;
+}
 
 /* header */
 header {
@@ -63,8 +129,8 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    gap: 6rem;
-    height: 9rem;
+    gap: var(--gutter-medium);
+    height: var(--gutter-large);
 }
 
 
@@ -85,6 +151,43 @@ nav a {
 }
 
 
-h1 {
-    font-size: 7.5rem;
+/* my work */
+
+.work-box {
+    display: flex;
+    align-items: center;
+    gap: var(--gutter-large);
+    margin-top: var(--gutter-xx-small);
 }
+
+.work-box-text > *{
+    margin-top: var(--gutter-xx-small);
+}
+
+.work-box-image {
+    max-width: 726px;
+}
+
+.work-box-image {
+    max-width: 100%;
+}
+
+.work-box-links {
+    display: flex;
+    align-items: center;
+}
+
+.gh-link {
+    transition: all 0.3s;
+}
+
+.gh-link:hover,
+.gh-link:focus {
+    transform: scale(1.3);
+}
+
+
+.gh-link img {
+    height: 3rem;
+}
+
