@@ -34,10 +34,11 @@
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
 
-    --black: #000;
-    --blue: #002fff;
-    --white: #f0e9f2;
-    --white-1: #e5e5e6da;
+    --black: #00171f;
+    --Black-1: #003459;
+    --blue: #00a8e8;
+    --white: #ffffff;
+    --white-1: #b8e1ff;
 
 
     --container-max-width: 1180px;
@@ -70,9 +71,9 @@ body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
     font-weight: 400;
-    color: var(--white-1);
+    color: var(--black-1);
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background: var(--white);
     overflow-x: hidden;
 }
 
@@ -125,7 +126,7 @@ h3 {
     font-family: 'Jost', sans-serif;
     font-weight: 400;
     line-height: var(--line-height-small);
-    color: var(--white);
+    color: var(--black);
 }
 
 .heading-primary {
@@ -404,8 +405,8 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 
 .header {
-    background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/pf-background.jpg');
+    background: /* linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), */
+        url('./images/pf-background.png');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -482,6 +483,8 @@ body:not(.user-is-tabbing) a:focus {
     height: 3rem;
     margin-left: var(--gutter-normal);
     transition: all .3s;
+    filter: brightness(0%);
+    
 }
 
 .work__image-box {
@@ -563,6 +566,9 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-image {
     height: 4rem;
+
+    
+    filter: brightness(0%);
 }
 
 .footer__github-buttons {
