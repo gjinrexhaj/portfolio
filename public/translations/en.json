@@ -9,7 +9,7 @@
         ],
         "socials": {
             "email": "gjin.contact@gmail.com",
-            "linkedin": "https://www.linkedin.com/",
+            "linkedin": "https://www.linkedin.com/in/gjinrexhaj/",
             "github": "https://github.com/GjinRexhaj"
         }
     },
@@ -27,23 +27,24 @@
     ],
     "education": [
         {
-            "title": "tt Engineering Intern",
+            "title": "Bachelor of Science; Major in Computer Science, Minor in Mathematics",
             "company": "Stanley Access Technologies",
-            "href": "https://www.stanleyaccess.com/",
-            "startDate": "05/2024",
-            "endDate": "08/2024",
+            "href": "https://www.ccsu.edu/programs/computer-science-bs",
+            "startDate": "08/2022",
+            "endDate": "PRESENT",
             "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0",
-            "logo": "/logos/SAT-logo-white.png"
+            "logo": "/logos/university-logo.png"
         }
     ],
     "volunteering": [
         {
-            "position": "Aircraft Technician",
-            "organisation": "Aero Design",
-            "href": "",
+            "title": "Aircraft Technician | Volunteet Work",
+            "company": "Aero Design",
+            "href": "https://aerodesignaircraft.com/",
             "startDate": "06/2022",
             "endDate": "08/2022",
-            "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft."
+            "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft.",
+            "logo": "/logos/plane.png"
         }
     ],
     "projects": [
