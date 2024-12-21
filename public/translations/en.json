@@ -4,8 +4,8 @@
         "headline": "Aspiring Software Engineer",
         "about": [
             "Hey there! 👋",
-            "Hello! My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
-            "In addition to being a computer enthusiast, I am somewhat of a sound design nerd. One of my hobbies includes the creation of Oscilloscope Music."
+            "My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
+            "I'm currently learning C++, GTK (via GTKmm), and CMake."
         ],
         "socials": {
             "email": "gjin.contact@gmail.com",
@@ -15,7 +15,7 @@
     },
     "experiences": [
         {
-            "title": "Firmware Engineering Intern",
+            "title": "Firmware Engineer Intern",
             "company": "Stanley Access Technologies",
             "href": "https://www.stanleyaccess.com/",
             "startDate": "05/2024",
@@ -33,7 +33,7 @@
             "startDate": "08/2022",
             "endDate": "PRESENT",
             "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0",
-            "logo": "/logos/university-logo.png"
+            "logo": "/logos/university-logo-bw.png"
         }
     ],
     "volunteering": [
@@ -49,14 +49,14 @@
     ],
     "projects": [
         {
-            "name": "Graphing Calculator Application",
+            "name": "Graphing Calculator",
             "framework": "Pyside6",
             "description": "A Python GUI application created with PySide6 and matplotlib which graphs user-specified arbitrary mathematical functions on a two-dimensional cartesian plane",
             "href": "https://github.com/GjinRexhaj/Graphing-Calculator",
             "stars": "0"
         },
        {
-            "name": "Sierpinski Fractal Generator",
+            "name": "Fractal Generator",
             "framework": "Java Swing & AWT",
             "description": "A Java GUI program created with Swing and AWT which renders an \"nth\" order Sierpinski fractal.",
             "href": "https://github.com/GjinRexhaj/Sierpinski-Fractal-Generator",
