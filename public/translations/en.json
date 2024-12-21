@@ -1,0 +1,66 @@
+{
+    "general": {
+        "name": "Gjin Rexhaj",
+        "headline": "Aspiring Software Engineer",
+        "about": [
+            "Hey there! 👋",
+            "Hello! My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
+            "In addition to being a computer enthusiast, I am somewhat of a sound design nerd. One of my hobbies includes the creation of Oscilloscope Music."
+        ],
+        "socials": {
+            "email": "gjin.contact@gmail.com",
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://github.com/GjinRexhaj"
+        }
+    },
+    "experiences": [
+        {
+            "title": "Firmware Engineering Intern",
+            "company": "Stanley Access Technologies",
+            "href": "https://www.stanleyaccess.com/",
+            "startDate": "05/2024",
+            "endDate": "08/2024",
+            "description": "Multi-faceted role which dealt with IoT solutions research and testing, and developing algorithms for radar sensor vector stabilization.",
+            "logo": "/logos/SAT-logo-white.png",
+            "skills": ["Python", "PyQt5", "Jira"]
+        }
+    ],
+    "education": [
+        {
+            "subject": "Computer Science",
+            "degree": "Bachelor of Science",
+            "university": "University Name ommited for privacy", 
+            "href": "",
+            "startDate": "2022", 
+            "endDate": "PRESENT", 
+            "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0"
+        }
+    ],
+    "volunteering": [
+        {
+            "position": "Aircraft Technician",
+            "event": "Event Name",
+            "organisation": "Aero Design",
+            "href": "",
+            "startDate": "06/2022",
+            "endDate": "08/2022",
+            "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Graphing Calculator Application",
+            "framework": "Pyside6",
+            "description": "A Python GUI application created with PySide6 and matplotlib which graphs user-specified arbitrary mathematical functions on a two-dimensional cartesian plane",
+            "href": "https://github.com/GjinRexhaj/Graphing-Calculator",
+            "stars": "0"
+        },
+       {
+            "name": "Sierpinski Fractal Generator",
+            "framework": "Java Swing & AWT",
+            "description": "A Java GUI program created with Swing and AWT which renders an \"nth\" order Sierpinski fractal.",
+            "href": "https://github.com/GjinRexhaj/Sierpinski-Fractal-Generator",
+            "stars": "0"
+       }
+    ]
+}
