@@ -11,7 +11,7 @@ module.exports = {
       current: 'currentColor',
       
      /* :: Color Palette: Purple and Dark Blue */
-      'primary': {
+     /* 'primary': {
         100: '#194bff',
         200: '#525dff',
         300: '#7170ff',
@@ -27,9 +27,9 @@ module.exports = {
         500: '#6d6a84',
         600: '#89869c'
       },
-      'on-background': '#ffffff',
+      'on-background': '#ffffff', */
       /* */
-      /* :: Color Palette: Yellow and Dark Grey
+      /* :: Color Palette: Yellow and Dark Grey */
       'primary': {
         100: '#ffc107',
         200: '#ffc83b',
@@ -47,7 +47,7 @@ module.exports = {
         600: '#8b8b8b'
       },
       'on-background': '#ffffff',
-      */  
+      
       /* :: Color Palette: Orange and Dark Blue
       'primary': {
         100: '#ff6b35',

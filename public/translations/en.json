@@ -27,13 +27,13 @@
     ],
     "education": [
         {
-            "subject": "Computer Science",
-            "degree": "Bachelor of Science",
-            "university": "University Name ommited for privacy", 
-            "href": "",
-            "startDate": "2022", 
-            "endDate": "PRESENT", 
-            "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0"
+            "title": "tt Engineering Intern",
+            "company": "Stanley Access Technologies",
+            "href": "https://www.stanleyaccess.com/",
+            "startDate": "05/2024",
+            "endDate": "08/2024",
+            "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0",
+            "logo": "/logos/SAT-logo-white.png"
         }
     ],
     "volunteering": [
