@@ -4,18 +4,18 @@
         "headline": "Aspiring Software Engineer",
         "about": [
             "Hey there! 👋",
-            "Hello! My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
-            "In addition to being a computer enthusiast, I am somewhat of a sound design nerd. One of my hobbies includes the creation of Oscilloscope Music."
+            "My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
+            "I'm currently learning C++, GTK (via GTKmm), and CMake."
         ],
         "socials": {
             "email": "gjin.contact@gmail.com",
-            "linkedin": "https://www.linkedin.com/",
+            "linkedin": "https://www.linkedin.com/in/gjinrexhaj/",
             "github": "https://github.com/GjinRexhaj"
         }
     },
     "experiences": [
         {
-            "title": "Firmware Engineering Intern",
+            "title": "Firmware Engineer Intern",
             "company": "Stanley Access Technologies",
             "href": "https://www.stanleyaccess.com/",
             "startDate": "05/2024",
@@ -27,35 +27,36 @@
     ],
     "education": [
         {
-            "subject": "Computer Science",
-            "degree": "Bachelor of Science",
-            "university": "University Name ommited for privacy", 
-            "href": "",
-            "startDate": "2022", 
-            "endDate": "PRESENT", 
-            "description": "Major in Computer Science, minor in Mathematics. Honors program member, GPA: 3.75 / 4.0"
+            "title": "Bachelor of Science; Major in Computer Science, Minor in Mathematics",
+            "company": "Stanley Access Technologies",
+            "href": "https://www.ccsu.edu/programs/computer-science-bs",
+            "startDate": "08/2022",
+            "endDate": "PRESENT",
+            "description": "Honors program member, CS club member, ASME attendee, chairperson and honors program scholarship recpient. GPA: 3.75 / 4.0",
+            "logo": "/logos/university-logo-bw.png"
         }
     ],
     "volunteering": [
         {
-            "position": "Aircraft Technician",
-            "organisation": "Aero Design",
-            "href": "",
+            "title": "Aircraft Technician | Volunteer Work",
+            "company": "Aero Design",
+            "href": "https://aerodesignaircraft.com/",
             "startDate": "06/2022",
             "endDate": "08/2022",
-            "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft."
+            "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft.",
+            "logo": "/logos/plane.png"
         }
     ],
     "projects": [
         {
-            "name": "Graphing Calculator Application",
+            "name": "Graphing Calculator",
             "framework": "Pyside6",
             "description": "A Python GUI application created with PySide6 and matplotlib which graphs user-specified arbitrary mathematical functions on a two-dimensional cartesian plane",
             "href": "https://github.com/GjinRexhaj/Graphing-Calculator",
             "stars": "0"
         },
        {
-            "name": "Sierpinski Fractal Generator",
+            "name": "Fractal Generator",
             "framework": "Java Swing & AWT",
             "description": "A Java GUI program created with Swing and AWT which renders an \"nth\" order Sierpinski fractal.",
             "href": "https://github.com/GjinRexhaj/Sierpinski-Fractal-Generator",
