@@ -5,7 +5,7 @@
         "about": [
             "Hey there! 👋",
             "My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science; Majoring in Computer Science and minoring in Mathematics.",
-            "I'm a passionate developer whose interest and experience spans across multiple different paradigms within CS. Follow me on GitHub!"
+            "I'm a passionate developer whose interest and experience spans across multiple different subsets within CS. Follow me on GitHub!"
         ],
         "socials": {
             "email": "gjin.contact@gmail.com",
@@ -30,7 +30,7 @@
             "href": "https://www.thecoderschool.com/",
             "startDate": "03/2025",
             "endDate": "PRESENT",
-            "description": "Working as an instructor tasked with mentoring and teaching students fundamental programming concept via project-based learning.",
+            "description": "Working as an instructor tasked with mentoring and teaching students fundamental programming concepts via project-based learning.",
             "logo": "/logos/bl/coder.png",
             "skills": ["Python", "Scratch"]
         },
@@ -52,11 +52,21 @@
             "href": "https://www.ccsu.edu/programs/computer-science-bs",
             "startDate": "08/2022",
             "endDate": "PRESENT",
-            "description": "Honors program member, CS club member, ASME attendee, chairperson and honors program scholarship recpient. GPA: 3.75 / 4.0",
+            "description": "Honors program member, ASU treasurer, CS club member, ASME attendee, chairperson and honors program scholarship recpient. GPA: 3.8 / 4.0",
             "logo": "/logos/bl/university.png"
         }
     ],
     "volunteering": [
+        {
+            "title": "Engineering Colloquia Series Presentation",
+            "company": "University name redacted",
+            "href": "https://aerodesignaircraft.com/",
+            "startDate": "03/2025",
+            "endDate": "03/2025",
+            "description": "Gave a presentation under mentorship of a researcher at a University. The presentation introduced and explained Agentic AI, and multi-agent AI systems to a broad audience of academic scholars.",
+            "logo": "/logos/bl/presentation.png"
+        },
+
         {
             "title": "Aircraft Technician | Volunteer Work",
             "company": "Aero Design",
