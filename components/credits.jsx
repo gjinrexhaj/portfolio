@@ -7,8 +7,16 @@ const Credits = (props) => {
                 <div className='mb-4'>
                     <a>Email is the quickest way to get ahold of me, feel free to reach out with any inquiries!</a>
                     <br></br> <br></br>
-                    This website was built using <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500">Next.js</a> and 
-                    <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> Tailwind CSS.</a>
+                    This website was built using
+                    <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> Next.js </a>
+                     and
+                    <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> Tailwind CSS. </a>
+                     This site has been adapted from
+                    <a href="https://github.com/utkarshkonwar/letsopensource" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> This Template</a>
+                    .
+
+
+
                 </div>
             </div>
         </div>

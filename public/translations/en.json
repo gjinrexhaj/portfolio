@@ -1,11 +1,11 @@
 {
     "general": {
         "name": "Gjin Rexhaj",
-        "headline": "Aspiring Software Engineer",
+        "headline": "Aspiring Developer",
         "about": [
             "Hey there! 👋",
-            "My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science in Computer Science and a minor in Mathematics.",
-            "I'm currently learning C++, GTK (via GTKmm), and CMake."
+            "My name is Gjin Rexhaj, and I am a third-year university student. I am currently pursuing a Bachelor of Science; Majoring in Computer Science and minoring in Mathematics.",
+            "I'm a passionate developer whose interest and experience spans across multiple different paradigms within CS. Follow me on GitHub!"
         ],
         "socials": {
             "email": "gjin.contact@gmail.com",
@@ -15,25 +15,45 @@
     },
     "experiences": [
         {
+            "title": "Undergraduate Research",
+            "company": "University name redacted",
+            "href": "https://www.ccsu.edu/",
+            "startDate": "04/2025",
+            "endDate": "PRESENT",
+            "description": "Working under the mentorship of a professor. Tasked with designing a convolutional neural network to scan and determine benign vs malignant tumors given an MRI scan of the prostate.",
+            "logo": "/logos/bl/neuralnet.png",
+            "skills": ["Tensorflow", "Python"]
+        },
+        {
+            "title": "Coding Instructor",
+            "company": "TheCoderSchool",
+            "href": "https://www.thecoderschool.com/",
+            "startDate": "03/2025",
+            "endDate": "PRESENT",
+            "description": "Working as an instructor tasked with mentoring and teaching students fundamental programming concept via project-based learning.",
+            "logo": "/logos/bl/coder.png",
+            "skills": ["Python", "Scratch"]
+        },
+        {
             "title": "Firmware Engineer Intern",
             "company": "Stanley Access Technologies",
             "href": "https://www.stanleyaccess.com/",
             "startDate": "05/2024",
             "endDate": "08/2024",
             "description": "Multi-faceted role which dealt with IoT solutions research and testing, and developing algorithms for radar sensor vector stabilization.",
-            "logo": "/logos/SAT-logo-white.png",
+            "logo": "/logos/bl/SAT.png",
             "skills": ["Python", "PyQt5", "Jira"]
         }
     ],
     "education": [
         {
             "title": "Bachelor of Science; Major in Computer Science, Minor in Mathematics",
-            "company": "Stanley Access Technologies",
+            "company": "University name redacted",
             "href": "https://www.ccsu.edu/programs/computer-science-bs",
             "startDate": "08/2022",
             "endDate": "PRESENT",
             "description": "Honors program member, CS club member, ASME attendee, chairperson and honors program scholarship recpient. GPA: 3.75 / 4.0",
-            "logo": "/logos/university-logo-bw.png"
+            "logo": "/logos/bl/university.png"
         }
     ],
     "volunteering": [
@@ -44,13 +64,20 @@
             "startDate": "06/2022",
             "endDate": "08/2022",
             "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft.",
-            "logo": "/logos/plane.png"
+            "logo": "/logos/bl/plane.png"
         }
     ],
     "projects": [
         {
+            "name": "java-neural-network",
+            "framework": "Java Swing",
+            "description": "An open-source neural network engine and frontend GUI implemented in pure Java ",
+            "href": "https://github.com/gjinrexhaj/java-neural-network",
+            "stars": "0"
+        },
+        {
             "name": "Graphing Calculator",
-            "framework": "Pyside6",
+            "framework": "Pyside6, Matplotlib",
             "description": "A Python GUI application created with PySide6 and matplotlib which graphs user-specified arbitrary mathematical functions on a two-dimensional cartesian plane",
             "href": "https://github.com/GjinRexhaj/Graphing-Calculator",
             "stars": "0"
@@ -61,6 +88,13 @@
             "description": "A Java GUI program created with Swing and AWT which renders an \"nth\" order Sierpinski fractal.",
             "href": "https://github.com/GjinRexhaj/Sierpinski-Fractal-Generator",
             "stars": "0"
-       }
+       },
+        {
+            "name": "opengl-renderer",
+            "framework": "Imgui, OpenGL",
+            "description": "An OpenGL renderer written in C++ with an intermediate-mode docking interface. ",
+            "href": "https://github.com/gjinrexhaj/OpenGL-Renderer",
+            "stars": "0"
+        }
     ]
 }

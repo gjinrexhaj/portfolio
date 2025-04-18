@@ -49,7 +49,7 @@ module.exports = {
       },
       'on-background': '#ffffff',
       */
-      /* :: Color Palette: Orange and Dark Blue */
+      /* :: Color Palette: Orange and Dark Blue
       
       'primary': {
         100: '#ff6b35',
@@ -67,8 +67,29 @@ module.exports = {
         500: '#6d6a84',
         600: '#89869c'
       },
-      'on-background': '#ffffff', 
-      
+      'on-background': '#ffffff',
+
+       */
+
+      /* :: Color Palette: same as last but light theme */
+      'primary': {
+        100: '#0094bf',
+        200: '#05c5ff',
+        300: '#05c5ff',
+        400: '#6db4ff',
+        500: '#48a6d6',
+        600: '#ffc0a3'
+      },
+      'surface': {
+        100: '#ffffff',
+        200: '#badbff',
+        300: '#000000',
+        400: '#6db4ff',
+        500: '#b8b8b8',
+        600: '#2e2e2e'
+      },
+      'on-background': '#000000',
+
       /* :: Color Palette: Green and Dark Blue
       'primary': {
         100: '#0b7a75',
