@@ -21,7 +21,7 @@
             "startDate": "04/2025",
             "endDate": "PRESENT",
             "description": "Working under the mentorship of a professor. Tasked with designing a convolutional neural network to scan and determine benign vs malignant tumors given an MRI scan of the prostate.",
-            "logo": "portfolio/logos/bl/neuralnet.png",
+            "logo": "/portfolio/logos/bl/neuralnet.png",
             "skills": ["Tensorflow", "Python"]
         },
         {
@@ -31,7 +31,7 @@
             "startDate": "03/2025",
             "endDate": "PRESENT",
             "description": "Working as an instructor tasked with mentoring and teaching students fundamental programming concepts via project-based learning.",
-            "logo": "portfolio/logos/bl/coder.png",
+            "logo": "/portfolio/logos/bl/coder.png",
             "skills": ["Python", "Scratch"]
         },
         {
@@ -41,7 +41,7 @@
             "startDate": "05/2024",
             "endDate": "08/2024",
             "description": "Multi-faceted role which dealt with IoT solutions research and testing, and developing algorithms for radar sensor vector stabilization.",
-            "logo": "portfolio/logos/bl/SAT.png",
+            "logo": "/portfolio/logos/bl/SAT.png",
             "skills": ["Python", "PyQt5", "Jira"]
         }
     ],
@@ -53,7 +53,7 @@
             "startDate": "08/2022",
             "endDate": "PRESENT",
             "description": "Honors program member, ASU treasurer, CS club member, ASME attendee, chairperson and honors program scholarship recpient. GPA: 3.8 / 4.0",
-            "logo": "portfolio/logos/bl/university.png"
+            "logo": "/portfolio/logos/bl/university.png"
         }
     ],
     "volunteering": [
@@ -64,7 +64,7 @@
             "startDate": "04/2025",
             "endDate": "04/2025",
             "description": "Gave a presentation under mentorship of a researcher at a University. The presentation introduced and explained Agentic AI, and multi-agent AI systems to a broad audience of academic scholars.",
-            "logo": "portfolio/logos/bl/presentation.png"
+            "logo": "/portfolio/logos/bl/presentation.png"
         },
 
         {
@@ -74,7 +74,7 @@
             "startDate": "06/2022",
             "endDate": "08/2022",
             "description": "Workload dealt with the ordering, assembly, and installation of wiring harnesses and advanced avionics systems for small form-factor propeller engine aircraft.",
-            "logo": "portfolio/logos/bl/plane.png"
+            "logo": "/portfolio/logos/bl/plane.png"
         }
     ],
     "projects": [
