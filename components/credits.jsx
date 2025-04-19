@@ -11,8 +11,8 @@ const Credits = (props) => {
                     <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> Next.js </a>
                      and
                     <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> Tailwind CSS. </a>
-                     This site has been adapted from
-                    <a href="https://github.com/utkarshkonwar/letsopensource" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> This Template</a>
+                     This site has been adapted from this
+                    <a href="https://github.com/utkarshkonwar/letsopensource" target="_blank" rel="noopener noreferrer" className="text-on-background transition-all hover:text-primary-500"> template</a>
                     .
 
 
