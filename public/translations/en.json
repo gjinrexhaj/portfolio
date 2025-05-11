@@ -87,7 +87,7 @@
         },
         {
             "name": "ticket-finder",
-            "framework": "Android",
+            "framework": "Android, Firebase",
             "description": "A native android application which allows a user to search for tickets based on category and location, and optionally storing their favorites within an account.",
             "href": "https://github.com/gjinrexhaj/ticket-finder",
             "stars": "0"
