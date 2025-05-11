@@ -108,7 +108,7 @@
        },
         {
             "name": "opengl-renderer",
-            "framework": "Imgui, OpenGL, GLSL",
+            "framework": "Imgui, OpenGL, GLM, GLSL",
             "description": "An OpenGL renderer written in C++ with an intermediate-mode docking interface. ",
             "href": "https://github.com/gjinrexhaj/opengl-renderer",
             "stars": "0"
