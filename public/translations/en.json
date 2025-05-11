@@ -86,24 +86,31 @@
             "stars": "0"
         },
         {
-            "name": "Graphing Calculator",
+            "name": "ticket-finder",
+            "framework": "Android",
+            "description": "A native android application which allows a user to search for tickets based on category and location, and optionally storing their favorites within an account.",
+            "href": "https://github.com/gjinrexhaj/ticket-finder",
+            "stars": "0"
+        },
+        {
+            "name": "graphing-calculator",
             "framework": "Pyside6, Matplotlib",
             "description": "A Python GUI application created with PySide6 and matplotlib which graphs user-specified arbitrary mathematical functions on a two-dimensional cartesian plane",
-            "href": "https://github.com/GjinRexhaj/Graphing-Calculator",
+            "href": "https://github.com/gjinrexhaj/graphing-calculator",
             "stars": "0"
         },
        {
-            "name": "Fractal Generator",
+            "name": "fractal-generator",
             "framework": "Java Swing & AWT",
             "description": "A Java GUI program created with Swing and AWT which renders an \"nth\" order Sierpinski fractal.",
-            "href": "https://github.com/GjinRexhaj/Sierpinski-Fractal-Generator",
+            "href": "https://github.com/gjinrexhaj/sierpinski-fractal-generator",
             "stars": "0"
        },
         {
             "name": "opengl-renderer",
             "framework": "Imgui, OpenGL",
             "description": "An OpenGL renderer written in C++ with an intermediate-mode docking interface. ",
-            "href": "https://github.com/gjinrexhaj/OpenGL-Renderer",
+            "href": "https://github.com/gjinrexhaj/opengl-renderer",
             "stars": "0"
         }
     ]
