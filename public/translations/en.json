@@ -80,7 +80,7 @@
     "projects": [
         {
             "name": "java-neural-network",
-            "framework": "Java Swing",
+            "framework": "Java Swing, FlatLaf Styling",
             "description": "An open-source neural network engine and frontend GUI implemented in pure Java ",
             "href": "https://github.com/gjinrexhaj/java-neural-network",
             "stars": "0"
