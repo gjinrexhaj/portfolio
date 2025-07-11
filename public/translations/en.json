@@ -22,7 +22,7 @@
             "endDate": "PRESENT",
             "description": "Working under the mentorship of a professor. Tasked with designing a convolutional neural network to scan and determine benign vs malignant tumors given an MRI scan of the prostate.",
             "logo": "/portfolio/logos/bl/neuralnet.png",
-            "skills": ["Tensorflow", "Python"]
+            "skills": ["Tensorflow", "Python", "ML"]
         },
         {
             "title": "Coding Instructor",
@@ -32,7 +32,7 @@
             "endDate": "PRESENT",
             "description": "Working as an instructor tasked with mentoring and teaching students fundamental programming concepts via project-based learning.",
             "logo": "/portfolio/logos/bl/coder.png",
-            "skills": ["Python", "Scratch"]
+            "skills": ["Unity", "Java","C#","Python", "Gamemaker", "Scratch"]
         },
         {
             "title": "Firmware Engineer Intern",
